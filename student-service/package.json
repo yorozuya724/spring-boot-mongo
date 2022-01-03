@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "saas:serve": "node ./dist/server.js"
+  }
+}
